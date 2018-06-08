@@ -1,0 +1,43 @@
+.html{
+    box-sizing: border-box;
+    float: center;
+    text-align: center;
+}
+#Image{
+    width: 200px;
+    height: 200px;
+}
+#Header{
+    box-sizing: border-box;
+    border: 20px;
+    border-color: black;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #4aaaa5;
+    background-color: #ffffff;
+    border-color: #cccccc;   
+    float: left;
+}
+.Navigation{
+    position: relative;
+    float: left;
+}
+.About-Me{
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #4aaaa5;
+    background-color: #ffffff;
+    width: 300px;
+    border: 20px;
+    border-color: bisque;
+}
+.footer{
+    background-color: #666666
+
+}
+.GoogleRow{
+    float: left;
+}
+.BingRow{
+    float: right;
+}
+.
